@@ -1,6 +1,6 @@
 ## Vuepress Theme jf 👋
 
-- [基于vuepress-theme-hope主题](https://github.com/vuepress-jf/vuepress-theme-jf)
-- [继承VuePress Theme Hope主题](https://github.com/vuepress-jf/vuepress-jf)
+- [fork VuePress Theme Hope 主题](https://github.com/theme-hope-jf/theme-hope)
+- [继承 VuePress Theme Hope 主题](https://github.com/theme-hope-jf/theme-hope-jf)
 
 
